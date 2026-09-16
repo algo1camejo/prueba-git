@@ -15,3 +15,7 @@ Collabs:
 - Pedro
 - Cami
 - Dalet
+
+Horarios:
+- Martes de 19 a 22 virtual.
+- Jueves de 19 a 22 presencial en PC aula 403.
